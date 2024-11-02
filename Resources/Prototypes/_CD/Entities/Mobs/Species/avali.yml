@@ -21,7 +21,7 @@
     - id: FoodMeatChicken
       amount: 3
   - type: Speech
-    speechVerb: Parrot # RMC did it right.
+    speechVerb: Parrot
     speechSounds: MaleAvali
   - type: Fixtures
     fixtures:
